@@ -53,6 +53,3 @@ No external APIs or third-party Python packages are planned for the MVP.
 
 Planning and repository setup. The tracker has not been implemented yet.
 
-## Development Process
-
-Implement and commit each chunk from the Part 2.3 design plan as it is completed. Use descriptive commit messages that identify the actual work completed. Keep setup, feature implementation, testing, and fixes in meaningful commits throughout development.
