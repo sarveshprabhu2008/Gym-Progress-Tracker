@@ -23,4 +23,3 @@ flowchart TD
     K --> M
 ```
 
-The progression check compares the two most recent workouts for the selected exercise within the selected profile. Settings, workout entries, and saved history remain local. This diagram describes planned behavior.
