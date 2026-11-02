@@ -41,13 +41,14 @@ No external APIs or third-party Python packages are planned for the MVP.
 | `tests/` | Future tests for storage, input validation, and progression rules |
 | `data/` | Local workout JSON files; personal data is excluded from Git |
 | `docs/eisenhower-matrix.md` | Feature priorities |
-| `docs/system-diagram.md` | Planned application flow |
+| `docs/System_Diagram.png` | Planned application flow |
 
 ## Design Documents
 
 - [Original Eisenhower Matrix PDF](Eisenhower%20Matrix.pdf)
 - [Eisenhower Matrix (Markdown)](docs/eisenhower-matrix.md)
 - [System Diagram](docs/System_Diagram.png)
+- [Chunked Build Plan](docs/build-plan.md)
 
 ## Current Status
 
