@@ -1,6 +1,5 @@
 # Chunked build plan
 
-Each milestone should produce one meaningful Git commit after its behavior has been checked.
 
 1. Set up the Git repository, Python project folders, and README.
 2. Create a command-line menu with options to create or select a profile and exit.
