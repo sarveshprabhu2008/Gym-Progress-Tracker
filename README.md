@@ -47,7 +47,7 @@ No external APIs or third-party Python packages are planned for the MVP.
 
 - [Original Eisenhower Matrix PDF](Eisenhower%20Matrix.pdf)
 - [Eisenhower Matrix (Markdown)](docs/eisenhower-matrix.md)
-- [System Diagram](docs/system_diagram.png)
+- [System Diagram](docs/System_Diagram.png)
 
 ## Current Status
 
